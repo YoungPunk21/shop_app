@@ -29,7 +29,7 @@
     npx expo start
 
 ## Технологии
-React Native
-Expo
-FakeStore API для загрузки товаров
-SQLite для локальной базы данных
+1. React Native
+2. Expo
+3. FakeStore API для загрузки товаров
+4. SQLite для локальной базы данных
